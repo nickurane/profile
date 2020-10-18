@@ -1,0 +1,90 @@
+.image_round
+{
+	
+    height: 200px;
+    width: 200px;
+    align-items: center;
+    border-radius: 50%;
+    
+  
+}
+
+.b{
+  padding-top:15vh;
+ padding-bottom: 0;
+  height: 100vh;
+  width:100%;
+}
+ 
+
+ 
+ 
+}
+.footer
+{
+	
+	 padding-top:50px;
+
+   height:70vh;
+    position: fixed;
+    padding-bottom:0px;
+   
+	}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+   
+   
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    
+   
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    
+   
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }  
+   .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+  }
+  html,body
+  {
+    height: 500vh;
+
+
+  }
+  .imageplay
+{
+  
+    height: 50px;
+    width: 100%;
+    margin:20px;
+    
+}
+.jumbotron
+{
+  background-color:green;
+
+  padding-top: 50px;
+}
+
